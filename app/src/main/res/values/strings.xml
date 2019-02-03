@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Subcon- Brainwash Yourself</string>
+
+
+    <string name="Name">Substly Smokefree</string>
+
+
+    <string name="about_text"> This application send visual signal below the normal limits of  human visual  perception to your brain.The visual subliminal messages will appear as quick flashes on your phone screen. By using this method of subliminal messages, you can invest only a few minutes a day.
+    The subliminal messages carry positive affirmations and being exposed to them over and over will create a new neural network in your brain which would help you to quit . . . </string>
+
+
+    <string name="helpText">1. Press the start button(Red Marked) to start the subliminal visual.\n2. The application would minimize automatically and run in   background.\n
+    3. It will start send visual perception to your brain to quit smoking.\n 4. Open the application from background and right swipe to close the application.</string>
+
+    <string-array name="names">
+
+
+        <item>Image_1</item>
+        <item>Image_2</item>
+        <item>Image_3</item>
+        <item>Image_4</item>
+        <item>Image_5</item>
+    </string-array>
+
+
+</resources>

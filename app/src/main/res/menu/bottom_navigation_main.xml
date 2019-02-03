@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+
+        android:id="@+id/action_about"
+        android:enabled="true"
+        android:icon="@drawable/icon_about"
+        android:title="About"
+        app:showAsAction="always|withText"/>
+
+
+    <item
+        android:id="@+id/action_stop"
+        android:enabled="true"
+        android:icon="@drawable/ic_stop"
+        android:title="Stop"
+        app:showAsAction="always|withText"/>
+
+    <item
+        android:id="@+id/action_start"
+        android:enabled="true"
+        android:icon="@drawable/ic_play"
+        android:title="Start"
+        app:showAsAction="always|withText"/>
+    <item
+        android:id="@+id/action_test"
+        android:enabled="true"
+        android:icon="@drawable/ic_test"
+        android:title="Test"
+        app:showAsAction="always|withText"/>
+
+
+    <item
+        android:id="@+id/action_help"
+        android:enabled="true"
+        android:icon="@drawable/ic_help"
+        android:title="Help"
+        app:showAsAction="always|withText"/>
+
+</menu>
